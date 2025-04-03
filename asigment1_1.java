@@ -116,7 +116,6 @@ public class asigment1_1 {
     }
 
     public static void main(String[] args) {
-        Scanner scanner = new Scanner(System.in);
         int[] arr = {10, 1, 32, 3, 45};
         System.out.println("Min: " + findMin(arr, 1, arr[0]));
         System.out.println("Average: " + findAverage(arr, 0, 0));
