@@ -1,7 +1,5 @@
 package DMS.asigment1;
 
-import java.util.Scanner;
-
 /**
  * Laboratory Work 1: Functions and Recursion
  * This program contains various recursive functions to solve mathematical problems.
