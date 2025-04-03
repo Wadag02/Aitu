@@ -12,4 +12,4 @@ This project contains recursive implementations of various mathematical function
 - Calculating binomial coefficients and GCD.
 
 ## Usage:
-Run `Main.java` in IntelliJ IDEA to test the functions.
+Run `asigment1_1` to test the functions.
